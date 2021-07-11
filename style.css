@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+
+.btn-outline-dark {
+  text-align: center;
+  width: 99.94%;
+  border-radius: 0px !important;
+}
+
+#name {
+  margin-top: 5px;
+}
+
+canvas {
+  border: solid;
+  border-color: black;
+  border-width: 5px;
+}
